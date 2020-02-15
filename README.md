@@ -100,7 +100,7 @@ npm run test:open
 
 | Landing Page | Dashboard|
 | :-------------: |:-------------:|
-| <img src="https://github.com/balayaydemir/Capstone-Group3-Client/screenshots/landing_page.png" width='80%' height='auto'> | <img src="https://github.com/balayaydemir/Capstone-Group3-Client/screenshots/dashboard.png" width='80%' height='auto'> |
+| <img src="https://github.com/balayaydemir/Capstone-Group3-Client/master/screenshots/landing_page.png" width='80%' height='auto'> | <img src="https://github.com/balayaydemir/Capstone-Group3-Client/screenshots/dashboard.png" width='80%' height='auto'> |
 | Login | Register|
 | <img src="https://github.com/balayaydemir/Capstone-Group3-Client/screenshots/login_page.png" width='80%' height='auto'> | <img src="https://github.com/balayaydemir/Capstone-Group3-Client/screenshots/register.png" width='80%' height='auto'> |
 | Add Project | Edit Project|
